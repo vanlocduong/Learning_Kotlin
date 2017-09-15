@@ -1,6 +1,7 @@
 # Learning_Kotlin
 Learning kotlin and share with PaulDuong
-https://imgur.com/a/sKooH
+
+![alt text](https://imgur.com/a/sKooH)
 
 
 
