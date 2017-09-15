@@ -1,9 +1,7 @@
 # Learning_Kotlin
 Learning kotlin and share with PaulDuong
 
-
-
-<img src="https://imgur.com/E6VvFl5">
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
