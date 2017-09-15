@@ -1,7 +1,8 @@
 # Learning_Kotlin
 Learning kotlin and share with PaulDuong
 
-![alt text](https://imgur.com/a/sKooH)
+
+![alt tag](https://imgur.com/a/sKooH)
 
 
 
